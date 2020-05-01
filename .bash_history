@@ -499,3 +499,224 @@ systemctl
 sestatus
 ifconfig
 ng version'
+ng serve
+cd /angular-app
+ng serve
+git init
+git add
+git config --global user.email "zulfiqza@mail.uc.edu"
+git config --global user.name "zulfiqza"
+
+sudo firewall-cmd --permanent --add-service=samba
+sudo firewall-cmd --permanent --list-services 
+sudo systemctl status firewalld
+sudo firewall-cmd --permanent --add-service=https
+sudo systemctl status firewalld.service 
+sudo firewall-cmd --permanent --add-service=httpd
+ng version
+ng serve -o
+cd angular-app
+cd /
+cd angular-app
+ng serve -o
+ng serve --host 0.0.0.0
+ng serve --host4200
+ng serve --host 4200
+firewall-cmd
+status firewalld
+sudo systemctl start smb
+sudo systemctl start nmb
+sudo systemctl enable nmb
+sudo systemctl enable smb
+cd ~
+sudo systemctl enable smb
+sudo systemctl enable nmb
+cd /etc/samba/
+ls
+sudo yum install -y git
+cd /angular-app
+sudo getit /angular-app/src/app/app.component.html
+sudo gedit /angular-app/src/app/app.component.html
+ng serve
+git init
+cd ~
+git init
+git add
+git add .
+git config --global user.email "zulfiqza@mail.uc.edu"
+git config --global user.email "zulfiza"
+git config --global user.email "zulfiqza@mail.uc.edu"
+git config --global user.name "zulfiza"
+git commit -m "initial commit for Final Lab Part 2"
+git version
+cd /angular-app/
+sudo gedit /angular-app/src/app/app.component.html
+ng serve
+ng serve --host 0.0.0.0
+git remote set-url origin https://github.com/zulfiqza/it1081c-final-lab-part
+sudo git remote set-url origin https://github.com/zulfiqza/it1081c-final-lab-part
+git remote add origin https://github.com/zulfiqza/it1081c-final-lab-part-2.git
+git push -u origin master
+c ~
+cd ~
+/etc/selinux/config
+sudo /etc/selinux/config
+sestatus
+firewald-cmd
+cd /angular-app
+/angular-app/src/app.component.html
+sudo getit
+/angular-app/src/app/app.component.html
+sudo /angular-app/src/app/app.component.html
+ng serve
+/temp/ng-phkH78/angular-errors.log
+ng serve
+sudo firewall-cmd --permanent --add-port=4200/tcp
+ng serve
+firewall-cmd
+ng serve --host 0.0.0.0
+yum install -y gcc-c++ make
+sudo yum install -y gcc-cc++ make
+curl -sL https://rpm.nodesource.com/setup_11.x | sudo -E bash -
+yum install -y nodejs
+sudo yum install -y node js
+node -v
+nodejs -v
+npm -v
+node --version
+sudo yum install -y nodejs
+node -v
+npm -v
+sudo npm install -g @angular/cli
+cd /
+ng new angular-app
+cd angular-app
+sudo ng new angular-app
+sudo update nodejs
+install npm@latest -g
+npm install npm@latest -g
+sudo npm install npm@latest -g
+cd angular-app
+ng new angular-app
+sudo apt-get update
+npm install -g @angular/cli
+cd /
+ng new angular-app
+cd angular-app
+ng serve --host 0.0.0.0
+node latest
+cd ~
+node latest
+node v11.15.0
+cd /
+node v12.0
+n v12.0
+sudo curl -sL https://rpm.nodesource.com/setup_12.x | sudo -E bash -
+sudo yum install -y gcc-c+ make
+curl -sL https://rpm.nodesource.com/setup_12.x | sudo -E bash -
+sudo yum install -y nodejs 
+sudo yum install -y nodejs
+node -v
+npm -v
+npm install -g @angular/cli
+cd /
+ng new angular-app
+cd angular-app
+ng new angular-app
+sudo yum install-y gcc-c++ make
+cd ~
+sudo yum install-y gcc-c++ make
+curl -sL https://rpm.nodesource.com/setup_12.x | sudo -E bash -
+npm install -g @angular/cli
+sudo npm install -g @angular/cli
+cd /
+sudo ng new angular-app
+cd angular-app
+ng serve --host 0.0.0.0
+sudo systemctl status firewalld
+sudo firewall-cmd --list-services
+sudo firewall-cmd --permanent --add-port=631/tcp
+nmap d show
+nmap -t show
+sudo systemctl restart firewalld
+sudo firewall-cmd --list-services
+ng serve
+ng serve --host 0.0.0.0
+cd /angular-app/
+ng serve
+cd ~
+sudo firewall-cmd --permanent --add-port=4200/tcp
+cd /angular-app/
+ng serve
+yum install -y git
+sudo yum install -y git
+cd ~
+sudo yum install -y git
+cd /angular-app/
+/angular-app/src/app/app.component.html
+sudo gedit /angular-app/src/app/app.component.html
+ng serve
+cd ~
+ng serve
+cd /angular-app/
+ng serve
+cd ~
+ifconfig
+nmcli d sgow
+nmcli d show
+sudo systemctl status firewalld
+sudo firewall-cmd --list-services
+sudo firewall-cmd --permanent --add-service=samba
+sudo firewall-cmd --permanent --add-service=http
+sudo firewall-cmd --permanent --add-service=samba-client
+sudo firewall-cmd --permanent --add-service=https
+sudo firewall-cmd --list-services
+sudo firewall-cmd --reload
+sudo firewall-cmd --list-services
+sudo vi /etc/selinux/config
+sudo systemctl status smb
+sudo systemctl start smb
+sudo systemctl start nmb
+sudo firewall-cmd --permanent --add-port=4200/tcp
+cd /angular-app/
+ng serve --open
+ng serve 
+sudo yum install -y gcc-c++ make
+curl -sL https://rpm.nodesource.com/setup_12.x | sudo -E bash -
+sudo yum install -y nodejs
+node -v
+npm -v
+npm install -g @angular/cli
+cd /
+ng new angular-app
+cd angular-ap
+cd /angular-app/
+ng serve --host 0.0.0.0
+cd /angular-app/
+ng serve --host 0.0.0.0
+ifconfig
+cd ..
+node -v
+ng new angular-app1
+sudo new angular-app1
+sudo ng new angular-app1
+cd /angular-app1/
+ng serve
+ng version
+ng serve
+ng serve --host 0.0.0.0
+cd /angular-app/
+ng serve
+su root
+ifconfig
+git version
+cd /angular-app
+sudo edit /angular-app/src/app/app.component.html
+sudo gedit /angular-app/src/app/app.component.html
+ng serve
+cd /angular-app/
+sudo gedit /angular-app/src/app/app.component.html
+ng serve --host 0.0.0.0
+cd /angular-app/
+sudo gedit /angular-app/src/app/app.component.html
+ng serve --host 0.0.0.0

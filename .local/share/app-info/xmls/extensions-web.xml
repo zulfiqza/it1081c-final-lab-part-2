@@ -19459,7 +19459,7 @@
     <id>touchpad-indicator_orangeshirt</id>
     <name>Touchpad Indicator</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Automatically disable other pointing devices when an external mouse is plugged in. Optionally, switch the touchpad, trackpoint, fingertouch, touchscreen or a pen device on and off easily from the top panel.</p><p>TouchpadIndicator-extensions.gnome.org-v35 (Supports GNOME Shell 3.34 and below)</p></description>
+    <description><p>Automatically disable other pointing devices when an external mouse is plugged in. Optionally, switch the touchpad, trackpoint, fingertouch, touchscreen or a pen device on and off easily from the top panel.</p><p>TouchpadIndicator-extensions.gnome.org-v35 (Supports GNOME Shell 3.34 and below)</p><p>For GNOME Shell 3.36, please see GitHub.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addons</category>
